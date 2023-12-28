@@ -1,7 +1,5 @@
 import gradio as gr
 import requests
-from skimage.transform import resize
-import numpy as np
 import cv2
 import os
 
